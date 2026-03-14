@@ -1,0 +1,8 @@
+VITE_API_KEY = "AIzaSyA9Vvfaqu6tuCIPArLodSLdgVGy8OFG9vU"
+VITE_AUTH_DOMAIN = "muscletrack-4210d.firebaseapp.com"
+VITE_PROJECT_ID = "muscletrack-4210d"
+VITE_STORAGE_BUCKET = "muscletrack-4210d.firebasestorage.app"
+VITE_MESSAGING_SENDER_ID = "752605895973"
+VITE_APP_ID = "1:752605895973:web:56b0a1a291ec7dafbd0ecc"
+VITE_MEASUREMENT_ID = "G-X1SF33N6FH"
+        
