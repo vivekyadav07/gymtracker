@@ -260,7 +260,7 @@ export default {
   data() {
     return {
       localSettings: {
-        name: 'Alex',
+        name: 'Vivek',
         weight: 75,
         goal: 'muscle_gain',
         dietPreference: 'non_veg',
